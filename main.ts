@@ -4,6 +4,8 @@ import * as path from "node:path";
 // One Word for the Boss: a single word that has to land on its own.
 // The boss this word describes sprays blame in every direction, the way
 // a flamethrower sprays fire — never his fault, always someone else's.
+// The verdict fits in one word because the boss never needs two: the blame always finds its target before the meeting ends.
+// He keeps a spreadsheet of other people's mistakes and a blank page for his own.
 const BOSS_WORD = "Blamethrower";
 
 const ENTRY_FILENAME = "entry.txt";
